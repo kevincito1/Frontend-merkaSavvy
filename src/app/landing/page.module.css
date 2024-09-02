@@ -1,0 +1,23 @@
+.background {
+  background-image: url('/background-image.jpeg');
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 100vh; /* Ocupa toda la altura de la ventana */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  .button {
+    background-color: rgb(243, 235, 235);
+    width: 20rem;
+    height: 5rem;
+    border-radius: 30%;
+    align-self: flex-end;
+    margin-bottom: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+  }

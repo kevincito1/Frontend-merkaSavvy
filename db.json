@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "usuario1",
+      "password": "password1",
+      "email": "usuario1@example.com"
+    },
+    {
+      "id": 2,
+      "username": "usuario2",
+      "password": "password2",
+      "email": "usuario2@example.com"
+    },
+    {
+      "id": 3,
+      "username": "usuario3",
+      "password": "password3",
+      "email": "usuario3@example.com"
+    },
+    {
+      "id": 4,
+      "username": "usuario4",
+      "password": "password4",
+      "email": "usuario4@example.com"
+    },
+    {
+      "id": 5,
+      "username": "usuario5",
+      "password": "password5",
+      "email": "usuario5@example.com"
+    },
+    {
+      "id": 6,
+      "username": "usuario6",
+      "password": "password6",
+      "email": "usuario6@example.com"
+    },
+    {
+      "id": 7,
+      "username": "usuario7",
+      "password": "password7",
+      "email": "usuario7@example.com"
+    },
+    {
+      "id": 8,
+      "username": "usuario8",
+      "password": "password8",
+      "email": "usuario8@example.com"
+    },
+    {
+      "id": 9,
+      "username": "usuario9",
+      "password": "password9",
+      "email": "usuario9@example.com"
+    },
+    {
+      "id": 10,
+      "username": "usuario10",
+      "password": "password10",
+      "email": "usuario10@example.com"
+    }
+  ],
+  "products":[
+    {
+      "id": 1,
+      "name": "Producto 1",
+      "description": "Descripción del producto 1",
+      "price": 10.99,
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "name": "Producto 2",
+      "description": "Descripción del producto 2",
+      "price": 15.49,
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "name": "Producto 3",
+      "description": "Descripción del producto 3",
+      "price": 7.99,
+      "stock": 200
+    },
+    {
+      "id": 4,
+      "name": "Producto 4",
+      "description": "Descripción del producto 4",
+      "price": 20.00,
+      "stock": 30
+    },
+    {
+      "id": 5,
+      "name": "Producto 5",
+      "description": "Descripción del producto 5",
+      "price": 5.75,
+      "stock": 150
+    },
+    {
+      "id": 6,
+      "name": "Producto 6",
+      "description": "Descripción del producto 6",
+      "price": 12.99,
+      "stock": 80
+    },
+    {
+      "id": 7,
+      "name": "Producto 7",
+      "description": "Descripción del producto 7",
+      "price": 9.50,
+      "stock": 60
+    },
+    {
+      "id": 8,
+      "name": "Producto 8",
+      "description": "Descripción del producto 8",
+      "price": 25.00,
+      "stock": 20
+    },
+    {
+      "id": 9,
+      "name": "Producto 9",
+      "description": "Descripción del producto 9",
+      "price": 18.75,
+      "stock": 40
+    },
+    {
+      "id": 10,
+      "name": "Producto 10",
+      "description": "Descripción del producto 10",
+      "price": 30.00,
+      "stock": 10
+    }
+  ]
+}
